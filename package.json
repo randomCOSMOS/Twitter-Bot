@@ -1,0 +1,14 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "COSMOS",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
