@@ -10,5 +10,5 @@
             "name": "Launch Program",
             "program": "${workspaceFolder}\\bot.js"
         }
-    ]
+   ]
 }
